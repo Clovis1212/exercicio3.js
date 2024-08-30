@@ -1,0 +1,5 @@
+function eitherTrue(valor1, valor2){
+  return valor1== true || valor2== true;
+}
+
+console.log(bothTrue(false,true));
